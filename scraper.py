@@ -24,7 +24,7 @@
 # called "data".
 
 ##################################### Method 1
-import mechanize
+# import mechanize
 import cookielib
 from BeautifulSoup import BeautifulSoup
 import html2text
